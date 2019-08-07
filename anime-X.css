@@ -340,8 +340,8 @@
   animation-duration: 0.2s!important;
 }
 .x-slow{
-  -webkit-animation-duration: 1s!important;
-  animation-duration: 1s!important;
+  -webkit-animation-duration: 2s!important;
+  animation-duration: 2s!important;
 }
 
 .x-dur-0-1{
